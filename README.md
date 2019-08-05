@@ -1,6 +1,6 @@
 # Hangman
-My first Python program!
+For two or more players
 
-### More
-- [] Deglobalize
-- [] Modularize
+### Maybe
+- [ ] Deglobalize
+- [ ] Modularize
